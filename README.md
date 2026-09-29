@@ -1,5 +1,5 @@
 ![MasterHead](https://m.media-amazon.com/images/I/51-skR2npjL._AC_UF894,1000_QL80_.jpg)
-<h1 align="center">👋 Hi, I’m Vishal</h1>
+<h1 align="center">👋 Hi, I’m Ayush</h1>
 
 # 💫 About Me
 
@@ -25,7 +25,7 @@
 </p>
 
 ### 📫 How to reach me:
-📧 **vishal.k.singh9504@gmail.com**
+📧 **rajakvansh49@gmail.com**
 
 <!-- <h3 align="left">👨‍💻 All of my projects are available at:</h3>
 
