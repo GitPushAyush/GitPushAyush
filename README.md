@@ -8,7 +8,7 @@
   **Virtual Assistant**, **E-commerce**, and **Food Delivery**.
 
 ### 🌱 I’m currently learning:
-- **Machine Learning**, **AI**, **Python**, **Data Analyst**, and **Data Science**.
+- **Machine Learning**, **AI**, **Python**, **full-stack developer**, and **Data Science**.
 
 ### 💬 Ask me about:
 - **MERN Stack**
